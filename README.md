@@ -4,15 +4,8 @@ ChatGPT是通过通过人类反馈两阶段精调的语言模型。ChatGPT几乎
 # 免费试用
 - [TheChatGPT](http://thechatgpt.top/#/)
 
-# 非自然语言处理（NLP）领域的同学
-- [ChatGPT-从语言知识到知识库-all](./docs/ChatGPT-从语言知识到知识库-all.pdf)
-
-## 示例
-- 人类反馈类型
-![](./figures/hf.png)
-
-# 非大语言模型（LLM）领域但有机器学习或NLP背景的同学
-- [ChatGPT-从语言知识到知识库-NLPer](./docs/ChatGPT-从语言知识到知识库-NLPer.pdf)
+# PPT
+- [ChatGPT-从语言知识到知识库](./docs/ChatGPT-从语言知识到知识库.pdf)
 
 ## 示例
 - 使用强化学习技术利用人类反馈精调语言模型
